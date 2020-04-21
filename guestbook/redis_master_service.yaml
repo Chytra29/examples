@@ -14,5 +14,6 @@ spec:
     tier: backend
   ports:
     - port: 6379
+      targetPort: 6379
 
 
